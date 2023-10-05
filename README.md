@@ -1,8 +1,7 @@
 # Money Change Calculating App
 
-initialy there will be 2 text fields and 2 bottons. 
-Which will generate 2 random numbers first.
-When the user press on the text field the app will tell the correct answer with color and message(toast).
+As the title says this app have a keypad like calculator.
+when the user gives any input the app will instantly say how many notes he will need of (1, 2, 5, 10, 20, 50, 100, 500)
+the also keep the data intact even when the display is changed to landscape mode.
 
-
-<img src="https://github.com/MohammedArmanKhan/ChangeCalculator/assets/56089884/8433aa35-a01f-4f4b-bde5-cbf1e33834af" width=300 height=600> <img src="https://github.com/MohammedArmanKhan/ChangeCalculator/assets/56089884/e21f695e-f2fa-4e63-806a-91c24dd604e1" width=300 height=600> <img src="https://github.com/MohammedArmanKhan/ChangeCalculator/assets/56089884/d9fb20d1-25ed-4eea-97e8-5f3fe662a1e1" width=300 height=600>
+<img src="" width=300 height=600> 
